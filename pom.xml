@@ -2,7 +2,11 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>net.mikebrooks</groupId>
     <artifactId>hello</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.1-SNAPSHOT</version>
+    <configuration>
+        <source>11</source>
+        <target>11</target>
+    </configuration>
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
