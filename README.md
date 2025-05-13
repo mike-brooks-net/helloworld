@@ -1,6 +1,6 @@
 [![Java CI with Maven](https://github.com/mike-brooks-net/helloworld/actions/workflows/maven.yml/badge.svg)](https://github.com/mike-brooks-net/helloworld/actions/workflows/maven.yml)
 
-[![Board Status](https://dev.azure.com/fabrikam/677da0fb-b067-4f77-b89b-f32c12bb8617/cdf5e823-1179-4503-9fb1-a45e2c1bc6d4/_apis/work/boardbadge/6fa7b56f-d27c-4e96-957d-f9e7b0f56705?columnOptions=2&columns=Proposed,Committed,In%20Progress,In%20Review)](https://dev.azure.com/fabrikam/677da0fb-b067-4f77-b89b-f32c12bb8617/_boards/board/t/cdf5e823-1179-4503-9fb1-a45e2c1bc6d4/Microsoft.RequirementCategory/)
+[![Board Status](https://dev.azure.com/mikebrooks0074/fd14e9c3-4e48-47b7-a06d-db73fc328ac8/5783162d-a27c-4067-abad-43ada3532d5c/_apis/work/boardbadge/0d43c106-b136-42bf-94db-97d01ecb85f0)](https://dev.azure.com/mikebrooks0074/fd14e9c3-4e48-47b7-a06d-db73fc328ac8/_boards/board/t/5783162d-a27c-4067-abad-43ada3532d5c/Issues/)
 # helloworld
 Simple java program to print hello world to the console
 
