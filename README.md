@@ -14,7 +14,6 @@ adding a new badge
 
 Adding the badge for all ADO columns
 
-
 ## meaningless  comments
 
 Add another line to the readme...
