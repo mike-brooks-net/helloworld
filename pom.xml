@@ -61,4 +61,21 @@
     </plugin>
   </plugins>
 </build>
+    <executions>
+   <execution>
+       <phase>verify</phase>
+       <id>snyk-test</id>
+       <goals>
+           <goal>test</goal>
+       </goals>
+   </execution>
+   <execution>
+       <phase>none</phase>
+       <id>snyk-monitor</id>
+       <goals>
+           <goal>monitor</goal>
+       </goals>
+   </execution>
+</executions>
+
 </project>
