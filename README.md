@@ -14,6 +14,9 @@ adding a new badge
 
 Adding the badge for all ADO columns
 
+2025-05-16 adding a copyright to source files
+
+
 ## meaningless  comments
 
 Add another line to the readme...
