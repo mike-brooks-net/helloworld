@@ -6,8 +6,14 @@
 // ***************************************************************
 package net.mikebrooks.hello;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import java.util.Properties;
 
 public class hello {
+
+    private static final Logger logger = LogManager.getLogger("hello");
+
 
 	public static int add(int x, int y) {
 		int retval; // I know we don't really need this...
@@ -52,6 +58,13 @@ public class hello {
 
 
 	public static void main(String[] args) {
+
+		//System.setProperties("log4j.configurationFile", "C:\\source\\helloworld\\log4j2.xml");	//"FILE_PATH");
+    	//Logger logger = LogManager.getRootLogger();
+    	//logger.trace("Configuration File Defined To Be :: "+System.getProperty("log4j.configurationFile"));
+
+        logger.info("Hello, World!");
+
 		System.out.println("Hello Java World!");
 	}
 }
