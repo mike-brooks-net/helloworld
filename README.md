@@ -27,3 +27,8 @@ Try again...
 One more time
 add a line
 another line
+
+## History
+### 2026-07-29
+- Add History section
+
